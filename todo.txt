@@ -1,0 +1,14 @@
+### GOAL
+
+I will create a React web application that will load 3 portions of the website by using components
+
+WHEN I NPM start, the website opens on a landing page containing [1] a header, [2] a main section and a [3] footer
+the header contains a NAV bar with [1] a List, [2] an about page and [3] a links page.
+
+WHEN I click either options within the NAV (which is within the header) the page replaces the main content of the 
+landing pagecwith the choosen section
+
+
+### STEPS
+1 - initialize git
+2 - npm install 
